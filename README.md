@@ -1,6 +1,6 @@
-More Github Fun (this is a title)
+More Github Fun (this is a title)!!
 ---------------------------------
-This is a paragraph of text...
+This is paragraph text...
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut sem viverra aliquet eget sit amet. Vitae justo eget magna fermentum iaculis eu non diam. Egestas integer eget aliquet nibh praesent tristique magna. Sem viverra aliquet eget sit amet. Purus in massa tempor nec feugiat. Quis commodo odio aenean sed adipiscing diam donec adipiscing tristique. In tellus integer feugiat scelerisque varius. Purus gravida quis blandit turpis cursus in hac habitasse. Sed turpis tincidunt id aliquet risus feugiat in ante metus. Lacus vel facilisis volutpat est velit. Felis eget nunc lobortis mattis aliquam faucibus purus in. Nullam non nisi est sit amet. Mattis rhoncus urna neque viverra justo nec ultrices dui. Ultricies leo integer malesuada nunc vel risus. Amet facilisis magna etiam tempor orci eu lobortis elementum.
 
