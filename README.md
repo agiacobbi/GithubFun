@@ -1,4 +1,4 @@
-More Github Fun (this is a title)!! (merge this)
+More Github Fun (this is a title)!! :) :)
 ---------------------------------
 This is paragraph text...
 
